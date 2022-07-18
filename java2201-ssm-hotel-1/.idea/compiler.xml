@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java2201-hotel-controller" />
+        <module name="java2201-hotel-dao" />
+        <module name="java2201-hotel-pojo" />
+        <module name="java2201-hotel-service" />
+        <module name="java2201-hotel-utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
